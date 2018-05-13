@@ -1,0 +1,4 @@
+exp/*
+swbd_exp/*
+data/*/split*
+data/*/.backup
